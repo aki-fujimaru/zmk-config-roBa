@@ -81,7 +81,7 @@
         default_layer {
             bindings = <
 &kp Q                    &kp W             &kp E                   &kp R                   &kp T                                &kp Y                 &kp U               &lt 0 I    &kp O    &kp P
-&lt 3 A                  &kp S             &kp D                   &mt LEFT_COMMAND F      &kp G      &to 1          &kp ESC    &kp H                 &mt LEFT_COMMAND J  &kp K      &kp L    &lt 1 BACKSPACE
+&lt 3 A                  &kp S             &kp D                   &mt LEFT_COMMAND F      &kp G      &to 1          &kp ESC    &kp H                 &mt LEFT_COMMAND J  &kp K      &kp L    &kp BACKSPACE
 &mt LEFT_SHIFT Z         &kp X             &kp C                   &kp V                   &kp B      &mkp MB1       &kp TAB    &kp N                 &kp M               &kp COMMA  &kp DOT  &kp MINUS
 &mt LEFT_SHIFT CAPSLOCK  &kp LEFT_CONTROL  &mt LEFT_ALT LA(SPACE)  &mt LEFT_COMMAND SPACE  &kp SPACE  &lt 1 F19      &lt 2 F20  &mt LEFT_SHIFT ENTER                                          &mkp MB1
             >;
