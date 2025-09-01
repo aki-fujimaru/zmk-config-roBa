@@ -111,9 +111,9 @@
 
         ARROW {
             bindings = <
-&trans  &trans         &trans         &trans         &trans                      &kp LA(LC(Y))               &kp LA(LC(U))  &kp LA(LC(I))      &kp LA(LC(O))                &trans
-&trans  &kp LA(LC(S))  &kp LA(LC(D))  &kp LA(LC(F))  &trans  &trans      &trans  &kp LA(LC(LG(LEFT_ARROW)))  &kp LA(LC(J))  &kp LC(LA(K))      &kp LA(LC(LG(RIGHT_ARROW)))  &trans
-&trans  &kp LA(LC(X))  &trans         &kp LA(LC(V))  &trans  &trans      &trans  &kp LC(LG(F))               &kp LA(LC(M))  &kp LA(LC(COMMA))  &kp LA(LC(PERIOD))           &trans
+&trans  &trans         &trans         &trans         &trans                      &kp LA(LC(Y))               &kp LA(LC(U))  &kp LA(LC(I))      &kp LA(LC(O))                &kp F12
+&trans  &kp LA(LC(S))  &kp LA(LC(D))  &kp LA(LC(F))  &trans  &trans      &kp F2  &kp LA(LC(LG(LEFT_ARROW)))  &kp LA(LC(J))  &kp LC(LA(K))      &kp LA(LC(LG(RIGHT_ARROW)))  &kp F11
+&trans  &kp LA(LC(X))  &trans         &kp LA(LC(V))  &trans  &trans      &kp F1  &kp LC(LG(F))               &kp LA(LC(M))  &kp LA(LC(COMMA))  &kp LA(LC(PERIOD))           &kp F10
 &trans  &trans         &trans         &trans         &trans  &trans      &trans  &trans                                                                                     &trans
             >;
 
